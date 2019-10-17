@@ -86,3 +86,6 @@ goimagehash v1.0.0 does not have compatible with the before version for future f
 - Support Perception hashing
 - Use bits.OnesCount64 for computing Hamming distance by @dominikh
 - Support hex serialization methods to ImageHash by @brunoro
+
+### Here 
+I was here
